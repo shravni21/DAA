@@ -15,6 +15,14 @@
 - deque
 - Queue functions-> enqueue,dequeue
 ---
+*III*
+- Linear Search
+- Binary Search
+- Ternary Search
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+---
 ## Buy me a coffee
 
 Whether you have learned something from this, or just like it, please consider supporting it by buying me a coffee :)
