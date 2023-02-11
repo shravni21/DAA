@@ -12,7 +12,7 @@ or subsets of a set.<br />
 <br />
     </p>
 
-## method:
+## Method:
 * Generate a list of all potential solutions to the problem a list of all potential solutions to the problem<br />
 in a systematic manner
     * all solutions are eventually listed
