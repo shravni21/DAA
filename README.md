@@ -23,6 +23,12 @@
 - Selection Sort
 - Insertion Sort
 ---
+*IV*
+- Readme.md(Exhaustive Search Algorithm)
+- BF string Matching Algorithm
+- Travelling salesman Problem
+- Knapsack
+---
 ## Buy me a coffee
 
 Whether you have learned something from this, or just like it, please consider supporting it by buying me a coffee :)
