@@ -29,6 +29,11 @@
 - Travelling salesman Problem
 - Knapsack
 ---
+- Binary Search
+- Merge Sort
+- Quick Sort
+- Strassen's Matrix multiplication
+---
 ## Buy me a coffee
 
 Whether you have learned something from this, or just like it, please consider supporting it by buying me a coffee :)
