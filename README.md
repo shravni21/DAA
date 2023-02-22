@@ -34,6 +34,10 @@
 - Quick Sort
 - Strassen's Matrix multiplication
 ---
+- Insertion sort
+- DFS
+- BFS
+---
 ## Buy me a coffee
 
 Whether you have learned something from this, or just like it, please consider supporting it by buying me a coffee :)
