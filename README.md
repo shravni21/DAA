@@ -29,11 +29,13 @@
 - Travelling salesman Problem
 - Knapsack
 ---
+*V*
 - Binary Search
 - Merge Sort
 - Quick Sort
 - Strassen's Matrix multiplication
 ---
+*VI*
 - Insertion sort
 - DFS
 - BFS
