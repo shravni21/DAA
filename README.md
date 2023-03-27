@@ -40,6 +40,17 @@
 - DFS
 - BFS
 ---
+*VII*
+- AVL tree
+- Binary Heap
+- Max Heap
+- Min Heap
+- Heapyfy
+---
+*VIII*
+- floyd warshall algorithm
+- knapsack algorithm
+---
 ## Buy me a coffee
 
 Whether you have learned something from this, or just like it, please consider supporting it by buying me a coffee :)
